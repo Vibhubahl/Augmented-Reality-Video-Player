@@ -1,1 +1,1 @@
-Target image and apk file are present in the repository.To use the application the target image must be printed out and apk file must be installed on Android mobile phone and whenever camera will point to target image video will be played.
+Target image and apk file are present in the repository.To use the application the target image must be printed out and apk file must be installed on Android mobile phone and whenever the apps camera will point to target image video will be played.
